@@ -1,4 +1,7 @@
 # tinc-playground
+
+*No longer supported or recommended*
+
 Quick way to build tinc applications. Contains tutorials and cookbook examples.
 
 Developed by:
